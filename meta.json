@@ -1,0 +1,24 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "HD Wapple Rap Full",
+      "author": "keivmän",
+      "authorProfile": "http://127.0.0.1:5500/videos/1/profile.jpg",
+      "thumbnail": "http://127.0.0.1:5500/videos/1/thumb.png",
+      "uploadDate": "2026-01-30 20:28",
+      "time": "4:32",
+      "parts": 3
+    },
+    {
+      "id": 2,
+      "title": "new epstein files are completely insane",
+      "author": "coffeezillaextras",
+      "authorProfile": "http://127.0.0.1:5500/videos/2/profile.jpg",
+      "thumbnail": "http://127.0.0.1:5500/videos/2/thumb.png",
+      "uploadDate": "2026-01-31 18:02",
+      "time": "15:54",
+      "parts": 10
+    }
+  ]
+}
